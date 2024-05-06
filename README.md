@@ -1,1 +1,1 @@
-it is a sample code 
+sample program
